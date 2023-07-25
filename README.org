@@ -1,0 +1,10 @@
+* cl-tesseract
+
+Common Lisp bindings for the Tesseract OCR library.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/GOFAI/cl-tesseract.git   |
+| commit  | 24acb40  |
+| systems | cl-tesseract |
+|---------+-------------------------------------------|
+
