@@ -7,3 +7,4 @@ Common Lisp bindings for the Tesseract OCR library.
 | commit  | 2a0c710                                       |
 | systems | cl-tesseract                                  |
 |---------+-----------------------------------------------|
+ 
